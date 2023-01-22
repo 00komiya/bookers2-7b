@@ -248,7 +248,7 @@ DEPENDENCIES
   bootsnap (>= 1.4.4)
   byebug
   capybara (>= 2.15)
-  chart-js-rails (~> 0.1.4)
+  chart-js-rails
   devise
   factory_bot_rails
   faker
